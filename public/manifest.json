@@ -1,0 +1,16 @@
+{
+    "name": "LifeOS",
+    "short_name": "LifeOS",
+    "description": "Ton système d'exploitation personnel",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#09090b",
+    "theme_color": "#09090b",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
